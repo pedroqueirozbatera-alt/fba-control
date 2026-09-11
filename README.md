@@ -42,9 +42,9 @@ Aplicação SPA em React com build via Vite. O estado de autenticação é geren
 3. Configure suas credenciais do Firebase no arquivo de configuração do projeto
 4. Execute em desenvolvimento:
    `npm run dev`
+<img width="1920" height="1080" alt="Captura de Tela 2026-09-11 às 00 06 44" src="https://github.com/user-attachments/assets/ce04709b-86ab-4918-9cab-dae2b8f7043b" />
 
 ## Deploy
 ```bash
 npm run build
 firebase deploy --only hosting
-<img width="1920" height="1080" alt="Captura de Tela 2026-09-11 às 00 06 44" src="https://github.com/user-attachments/assets/c964be7c-8130-49a5-ac09-597c3fce441b" />
